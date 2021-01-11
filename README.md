@@ -1,5 +1,7 @@
 # Malowania Gildia.org
 
+![Gildia.org Logo](https://images.weserv.nl/?url=https://i.imgur.com/nFHxQMy.png&w=140&il)
+
 ## Instalacja
 ### Pobieranie
 * Wchodzimy na https://github.com/gildia-org/skins/releases
