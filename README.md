@@ -35,4 +35,3 @@ Tworzymy pull request do gałęzi _master_. W razie pytań, wątpliwości, probl
 * Poprawione pliki description.lua dla malowań 44AG.
 * Dodane roughmety naszywek do malowania VFA-418 Line.
 * Poprawione malowania 3ES
-* test
