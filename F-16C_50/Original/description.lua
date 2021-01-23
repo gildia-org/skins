@@ -1,0 +1,1 @@
+name = "77th Fighter Squadron, Shaw AFB (20th FW)"
